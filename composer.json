@@ -1,5 +1,5 @@
 {
-    "name": "sunspikes/php-ratelimiter",
+    "name": "evoluted/php-ratelimiter",
     "description": "A framework agnostic rate limiter for PHP",
     "keywords": ["rate limit", "throttle", "throttling", "ratelimit", "php-ratelimiter", "Krishnaprasad MG", "sunspikes"],
     "license": "MIT",
